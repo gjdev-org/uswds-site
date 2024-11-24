@@ -158,7 +158,7 @@ exclude:
 
 # Jekyll SEO tag
 twitter:
-  username: USWDS
+  username: gabrieljonesdev
   card: summary_large_image
 
 env: dev
